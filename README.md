@@ -1,53 +1,43 @@
-### Boa noite 
 
-- Meu nome e dudu.
-- Estou aprendendo a linguagem python.
-### Oque aprendi ate agora em python são:
+### 👋 Boa noite!
 
-  ython + VS Code
+- Meu nome é **Dudu**.
+- Estou aprendendo a linguagem **Python** e quero compartilhar meu progresso por aqui.
 
-Instalação do Python
+---
 
-Configuração do VS Code
+### 📘 O que aprendi até agora em Python:
 
-Criação e execução de scripts
+#### 🛠️ Python + VS Code
+- Instalação do Python
+- Configuração do VS Code
+- Criação e execução de scripts
 
-Lógica de Programação com Python
+#### 🧠 Lógica de Programação com Python
+- Variáveis, tipos de dados e operadores
+- Condicionais (`if`, `else`, `elif`)
+- Laços de repetição (`for`, `while`)
+- Funções básicas
 
-Variáveis, tipos de dados, operadores
+#### ⚙️ Python Intermediário
+- Funções com parâmetros e retorno
+- Escopo de variáveis
+- Módulos e importações
+- Estruturas de dados: listas, dicionários, tuplas e sets
 
-Condicionais (if, else, elif)
+#### 🧱 Programação Orientada a Objetos (POO)
+- Classes e objetos
+- Métodos e atributos
+- Construtor `__init__`
+- Herança
+- Encapsulamento
 
-Laços (for, while)
+#### 📦 Módulos Python
+- `os`, `datetime`, `sys` para automação e interação com o sistema
+- `json`, `csv` para manipulação de dados
+- `selenium` para automação web
 
-Funções básicas
+---
 
-Python Intermediário
+🚀 E sigo aprendendo todos os dias!
 
-Funções com parâmetros e retorno
-
-Escopo de variáveis
-
-Módulos e importações
-
-Trabalhando com listas, dicionários, tuplas e sets
-
-Programação Orientada a Objetos (POO)
-
-Classes e objetos
-
-Métodos e atributos
-
-Construtor __init__
-
-Herança
-
-Encapsulamento
-
-Módulos Python
-
-os, datetime, sys para automação e sistema
-
-json, csv para manipulação de dados
-
-selenium para automação web
