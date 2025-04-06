@@ -3,12 +3,51 @@
 - Meu nome e dudu.
 - Estou aprendendo a linguagem python.
 ### Oque aprendi ate agora em python são:
-- listas
-- list compresion
-- if, else, elif
-- try e expect
-- importar coisas do seu propio main
-- dicionarios
-- e outras varias coisas
-### estou fazendo curso na udemy
-  
+
+  ython + VS Code
+
+Instalação do Python
+
+Configuração do VS Code
+
+Criação e execução de scripts
+
+Lógica de Programação com Python
+
+Variáveis, tipos de dados, operadores
+
+Condicionais (if, else, elif)
+
+Laços (for, while)
+
+Funções básicas
+
+Python Intermediário
+
+Funções com parâmetros e retorno
+
+Escopo de variáveis
+
+Módulos e importações
+
+Trabalhando com listas, dicionários, tuplas e sets
+
+Programação Orientada a Objetos (POO)
+
+Classes e objetos
+
+Métodos e atributos
+
+Construtor __init__
+
+Herança
+
+Encapsulamento
+
+Módulos Python
+
+os, datetime, sys para automação e sistema
+
+json, csv para manipulação de dados
+
+selenium para automação web
