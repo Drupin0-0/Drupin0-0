@@ -1,43 +1,68 @@
+👋 Boa noite!
+Meu nome é Dudu.
 
-### 👋 Boa noite!
+Estou aprendendo Python e construindo projetos reais enquanto compartilho meu progresso.
 
-- Meu nome é **Dudu**.
-- Estou aprendendo a linguagem **Python** e quero compartilhar meu progresso por aqui.
+📘 O que aprendi até agora com Python:
+🛠️ Ambiente de Desenvolvimento
+Instalação e configuração do Python
 
----
+Uso do VS Code com extensões úteis
 
-### 📘 O que aprendi até agora em Python:
+Criação e execução de scripts
 
-#### 🛠️ Python + VS Code
-- Instalação do Python
-- Configuração do VS Code
-- Criação e execução de scripts
+Controle de versões com Git e GitHub
 
-#### 🧠 Lógica de Programação com Python
-- Variáveis, tipos de dados e operadores
-- Condicionais (`if`, `else`, `elif`)
-- Laços de repetição (`for`, `while`)
-- Funções básicas
+🧠 Lógica de Programação
+Variáveis, tipos de dados, operadores
 
-#### ⚙️ Python Intermediário
-- Funções com parâmetros e retorno
-- Escopo de variáveis
-- Módulos e importações
-- Estruturas de dados: listas, dicionários, tuplas e sets
+Condicionais: if, else, elif
 
-#### 🧱 Programação Orientada a Objetos (POO)
-- Classes e objetos
-- Métodos e atributos
-- Construtor `__init__`
-- Herança
-- Encapsulamento
+Laços: for, while
 
-#### 📦 Módulos Python
-- `os`, `datetime`, `sys` para automação e interação com o sistema
-- `json`, `csv` para manipulação de dados
-- `selenium` para automação web
+Funções, parâmetros, retorno e escopo
 
----
+⚙️ Python Intermediário
+Listas, tuplas, dicionários e conjuntos
 
-🚀 E sigo aprendendo todos os dias!
+Módulos e pacotes
 
+Tratamento de exceções
+
+Manipulação de arquivos (.txt, .csv, .json)
+
+🧱 Programação Orientada a Objetos (POO)
+Classes, objetos, métodos e atributos
+
+Construtor __init__
+
+Herança e encapsulamento
+
+🌐 Desenvolvimento Web com Django
+Criação de projetos e apps com Django
+
+Modelos, views, templates e urls
+
+Sistema de autenticação com usuários
+
+Painel administrativo
+
+🔌 APIs com Django REST Framework (DRF)
+Serializers e ViewSets
+
+Autenticação com JWT (SimpleJWT)
+
+Permissões personalizadas
+
+Filtros e actions customizadas
+
+Testes de API com Postman
+
+🌱 Outros aprendizados
+Uso de bibliotecas como os, datetime, json, csv
+
+Automação com selenium
+
+Organização de projetos no GitHub
+
+Escrevendo README.md com imagens e instruções
