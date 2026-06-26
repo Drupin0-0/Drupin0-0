@@ -1,68 +1,39 @@
-👋 Boa noite!
-Meu nome é Dudu.
+[README.md](https://github.com/user-attachments/files/29393667/README.md)![Visitor Count](https://komarev.com/ghpvc/?username=Drupin0-0&color=006bed)
 
-Estou aprendendo Python e construindo projetos reais enquanto compartilho meu progresso.
+## Sobre mim
 
-📘 O que aprendi até agora com Python:
-🛠️ Ambiente de Desenvolvimento
-Instalação e configuração do Python
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🎓 Estudando Desenvolvimento de Sistemas.
+- 💼 Atualmente estudante.
+- 🌱 Aprendendo mais sobre aplicações em APIs.
 
-Uso do VS Code com extensões úteis
+## Minhas Skills
 
-Criação e execução de scripts
+**Aplicações e dados**
 
-Controle de versões com Git e GitHub
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-🧠 Lógica de Programação
-Variáveis, tipos de dados, operadores
+**Utilidades**
 
-Condicionais: if, else, elif
+![Bruno](https://img.shields.io/badge/-Bruno-333333?style=flat&logo=bruno)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
-Laços: for, while
+**DevOps**
 
-Funções, parâmetros, retorno e escopo
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-⚙️ Python Intermediário
-Listas, tuplas, dicionários e conjuntos
+## Onde me encontrar
 
-Módulos e pacotes
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/-linseduardo2009@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:linseduardo2009@gmail.com)](mailto:linseduardo2009@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/Drupin0-0?label=follow&style=social)](https://github.com/Drupin0-0)
 
-Tratamento de exceções
+## GitHub Stats
 
-Manipulação de arquivos (.txt, .csv, .json)
-
-🧱 Programação Orientada a Objetos (POO)
-Classes, objetos, métodos e atributos
-
-Construtor __init__
-
-Herança e encapsulamento
-
-🌐 Desenvolvimento Web com Django
-Criação de projetos e apps com Django
-
-Modelos, views, templates e urls
-
-Sistema de autenticação com usuários
-
-Painel administrativo
-
-🔌 APIs com Django REST Framework (DRF)
-Serializers e ViewSets
-
-Autenticação com JWT (SimpleJWT)
-
-Permissões personalizadas
-
-Filtros e actions customizadas
-
-Testes de API com Postman
-
-🌱 Outros aprendizados
-Uso de bibliotecas como os, datetime, json, csv
-
-Automação com selenium
-
-Organização de projetos no GitHub
-
-Escrevendo README.md com imagens e instruções
+![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Drupin0-0&theme=dracula&show_icons=true)
