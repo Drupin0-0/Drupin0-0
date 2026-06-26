@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29393667/README.md)![Visitor Count](https://komarev.com/ghpvc/?username=Drupin0-0&color=006bed)
+(https://github.com/user-attachments/files/29393667/README.md)![Visitor Count](https://komarev.com/ghpvc/?username=Drupin0-0&color=006bed)
 
 ## Sobre mim
 
