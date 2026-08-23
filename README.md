@@ -16,6 +16,5 @@ Hi! I'm Eduardo Lins, a Systems Development student passionate about technology 
 ![](https://github-contributor-stats.vercel.app/api?username=Drupin0-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Drupin0-0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
