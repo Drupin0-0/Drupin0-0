@@ -12,7 +12,3 @@ Oi! Me chamo Eduardo Lins, estudante de Desenvolvimento de Sistemas apaixonado p
 ![](https://streak-stats.demolab.com/?user=Drupin0-0&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Drupin0-0&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Repositório com mais contribuições
-![](https://github-contributor-stats.vercel.app/api?username=Drupin0-0&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
